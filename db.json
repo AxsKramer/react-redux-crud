@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Jabon",
+      "price": 35,
+      "id": 1
+    },
+    {
+      "name": "Crema",
+      "price": 22,
+      "id": 2
+    },
+    {
+      "name": "Shampoo",
+      "price": 55,
+      "id": 3
+    }
+  ]
+}
